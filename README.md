@@ -1,4 +1,4 @@
-### Hi there 👋
+I am rebirthing Nostrdamus Astrology with all the developers!### Hi there 👋
 
 <!--
 **ScorpiusDraconis83/ScorpiusDraconis83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
