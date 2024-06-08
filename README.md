@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Greetings](https://github.com/ScorpiusDraconis83/NewAIseem/actions/workflows/greetings.yml/badge.svg)](https://github.com/ScorpiusDraconis83/NewAIseem/actions/workflows/greetings.yml)
 <!--
 **ScorpiusDraconis83/ScorpiusDraconis83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
