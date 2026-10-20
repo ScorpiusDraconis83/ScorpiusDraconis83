@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWs5cjRzd2k4MHh5M2kyczRodGJhcDh2ZmloanF3b2FvcTFqODk0aiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/PXUyO2ojWrp9QMBQVA/giphy.gif
+
 <!--
 **ScorpiusDraconis83/ScorpiusDraconis83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
